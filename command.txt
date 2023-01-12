@@ -1,0 +1,5 @@
+// GitHubからサンプルプロジェクトをコピーして作成
+// 『nextjs-blog』という名前で作成する
+$ npx create-next-app nextjs-blog --use-npm --example "https://github.com/vercel/next-learn/tree/master/basics/learn-starter"
+
+
